@@ -1,7 +1,7 @@
 
 const TicketPage = ({params}) => {
   return (
-    <div>TicketPage ${params.id}</div>
+    <div>TicketPage {params.id}</div>
   )
 }
 
